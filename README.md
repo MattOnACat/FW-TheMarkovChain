@@ -34,5 +34,4 @@ If this is not the case, the software can be ran with the following command from
 This requires that the location of 'java.exe' is stored in the PATH variable.
 
 ## INSTALL
-An exe installer for this program is available here:
-https://drive.google.com/file/d/1Eyt-_qPGjQ34nQDFLf7yoxuqEhIQXnZS/view?usp=sharing
+An exe installer for this program is available under the releases page.
